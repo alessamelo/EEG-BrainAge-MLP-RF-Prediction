@@ -1,0 +1,2 @@
+MAE,R2,r,BAG_mean,BAG_std,Best_Params
+4.523663233094047,0.9002665312214304,0.9648185836800244,-0.7397854465385146,6.630456422839634,"{'n_estimators': 262, 'max_depth': 40, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_features': 'sqrt'}"
