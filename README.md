@@ -31,4 +31,4 @@ Predicting biological brain age from EEG signals using ensemble machine learning
 
 ### Installation
 ```bash
-git clone https://github.com/alessamelo/EEG-BrainAge-ML-RF-Prediction
+git clone https://github.com/alessamelo/EEG-BrainAge-MLP-RF-Prediction
