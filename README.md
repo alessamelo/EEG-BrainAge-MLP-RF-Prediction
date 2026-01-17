@@ -1,6 +1,6 @@
 # EEG Brain Age Prediction with Machine Learning and Optimization
 
-This repository implements machine learning models for EEG-based brain age prediction, combining Random Forest and Multi-Layer Perceptron (MLP) architectures with advanced optimization techniques.
+This repository implements machine learning models for EEG-based brain age prediction, combining Random Forest (RF) and Multi-Layer Perceptron (MLP) architectures with advanced optimization techniques.
 
 ##  Project Overview
 Predicting biological brain age from EEG signals using ensemble machine learning approaches, optimized through both Genetic Algorithms and Bayesian Optimization methods.
@@ -13,7 +13,7 @@ Predicting biological brain age from EEG signals using ensemble machine learning
 ##  Features
 
 ### Models Implemented
-- **Random Forest Regression**
+- **Random Forest Regression (RF)**
 - **Multi-Layer Perceptron (MLP) Neural Networks**
 
 ### Optimization Techniques
